@@ -1,0 +1,25 @@
+{
+  "name": "react-express-boilerplate",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrhr/react-express-boilerplate.git"
+  },
+  "keywords": [
+    "nope"
+  ],
+  "author": "Daniel Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrhr/react-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/zrhr/react-express-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
